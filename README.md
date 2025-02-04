@@ -26,7 +26,7 @@ Each word is assigned a unique numerical representation:
 ## Embeddings
 Here's where **embedding** will start coming into play → we want to store certain **attributes** of each word.
 
-➡️ Our **embedding table** will store the specific attributes for **EACH WORD IN OUR VOCABULARY**
+Our **embedding table** will store the specific attributes for **EACH WORD IN OUR VOCABULARY**
 
 **Shape:** `(vocab size, num attributes)`
 
