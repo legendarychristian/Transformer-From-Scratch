@@ -19,7 +19,7 @@ Each word is assigned a unique numerical representation:
 
 | 10   | 15   | 20   | 25   | 26   |
 |------|------|------|------|------|
-| 1    | 2    | 3    | 4    | 5    |
+| 0    | 1    | 2    | 3    | 4    |
 
 **Shape:** `(1, 5)` → *(batch, num elements)*
 
