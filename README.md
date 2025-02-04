@@ -1,4 +1,6 @@
-# Encoder Input Shapes and Processing
+# Understanding the Transformer Encoder
+
+I find that the best way to understand this concept is to first understand what exactly the input is.
 
 ## What are the shapes of my input through the encoding layer?
 
